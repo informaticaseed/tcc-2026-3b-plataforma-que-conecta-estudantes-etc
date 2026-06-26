@@ -7,9 +7,9 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (Erick) | @username | 3A |
-| (Yago) | @username | 3A |
-| (Sávio) | @username | 3A |
+| (Erick) | @username | 3B |
+| (Yago) | @username | 3B |
+| (Sávio) | @username | 3B |
 
 **Tema:** (escreva aqui em 1 frase)
 **Tecnologia:** Python + Flask + SQLite
