@@ -9,7 +9,7 @@
 |--------------|--------|-------|
 | (Erick) | @username | 3B |
 | (Yago) | @username | 3B |
-| (Sávio) | @username | 3B |
+| (Sávio) | @Devsaviofranco | 3B |
 
 **Tema:** (escreva aqui em 1 frase)
 **Tecnologia:** Python + Flask + SQLite
