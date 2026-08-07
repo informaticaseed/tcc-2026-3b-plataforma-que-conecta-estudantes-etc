@@ -11,7 +11,7 @@
 | (Yago) | @username | 3B |
 | (Sávio) | @Devsaviofranco | 3B |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** (conectar estudantes a oportunidades de trabalho)
 **Tecnologia:** Python + Flask + SQLite
  
 ---
