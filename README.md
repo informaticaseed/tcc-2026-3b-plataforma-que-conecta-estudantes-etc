@@ -18,7 +18,7 @@
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+(decidimos iniciar a funcionalidade do localhost)
 
 ---
 
