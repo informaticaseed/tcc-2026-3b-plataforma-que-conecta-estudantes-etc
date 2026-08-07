@@ -29,8 +29,6 @@
 3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas
 4. **Push** — métricas de participação aparecem automaticamente no Actions
 
----
-
 ## 📁 Estrutura do projeto
 
 ```
