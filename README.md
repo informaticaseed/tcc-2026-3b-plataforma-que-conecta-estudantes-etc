@@ -14,11 +14,11 @@
 **Tema:** (conectar estudantes a oportunidades de trabalho)
 **Tecnologia:** Python + Flask + SQLite
  
----
- 
+--- 
+
 ## 🎯 O que o sistema faz
 
-(decidimos iniciar a funcionalidade do localhost)
+(decidimos iniciar a funcionalidade do localhost e fazer a migração do arquivo para outra auxiliadora)
 
 ---
 
