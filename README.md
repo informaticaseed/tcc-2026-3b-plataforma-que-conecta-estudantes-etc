@@ -13,8 +13,8 @@
 
 **Tema:** (conectar estudantes a oportunidades de trabalho)
 **Tecnologia:** Python + Flask + SQLite
- 
---- 
+
+-- 
 
 ## 🎯 O que o sistema faz
 
