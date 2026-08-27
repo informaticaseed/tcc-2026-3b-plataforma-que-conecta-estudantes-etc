@@ -40,9 +40,9 @@ Backlog:
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Sávio | - Adicionar as informacoes finais, colocar o diograma de uso|
+| Erick | Iniciar a apresentacao o slide|
+| Yago | - Implementar a parte de empresa - Chat entre empresa e estudante - Criar area da empresa - O estudante tem que ter opcao de adicionar o curriculum com uma serie de perguntas|
 
 ### Verificação em 22/08
 
