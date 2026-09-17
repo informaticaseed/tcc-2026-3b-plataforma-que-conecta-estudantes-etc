@@ -42,7 +42,7 @@
 ├── src/                ← código do sistema
 └── tests/              ← testes automáticos
 ```
-
+Foi feito mais algumas atualizações
 ---
 
 ## ⚡ Comandos rápidos
