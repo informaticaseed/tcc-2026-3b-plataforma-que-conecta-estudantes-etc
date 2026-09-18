@@ -12,7 +12,7 @@
 | (Sávio) | @Devsaviofranco | 3B |
 
 **Tema:** (conectar estudantes a oportunidades de trabalho)
-**Tecnologia:** typescript + Flask + SQLite
+**Tecnologia:** typescript + Flask + SQLite + html + css
 
 -- 
 
